@@ -1,0 +1,16 @@
+{
+  "domainNamespace": "ContestPlatform.Api",
+  "applicationNamespace": "ContestPlatform.Api",
+  "infrastructureNamespace": "ContestPlatform.Api",
+  "apiNamespace": "ContestPlatform.Api",
+  "domainDirectory": "C:\\Projects\\ContestPlatform\\src\\ContestPlatform.Api",
+  "applicationDirectory": "C:\\Projects\\ContestPlatform\\src\\ContestPlatform.Api",
+  "infrastructureDirectory": "C:\\Projects\\ContestPlatform\\src\\ContestPlatform.Api",
+  "apiDirectory": "C:\\Projects\\ContestPlatform\\src\\ContestPlatform.Api",
+  "path": "C:\\Projects\\ContestPlatform",
+  "dbContext": "ContestPlatformDbContext",
+  "sourceFolder": "src",
+  "resources": [
+    "Contest"
+  ]
+}
